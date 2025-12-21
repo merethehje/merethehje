@@ -1,7 +1,7 @@
 ## Hi there 👋
-I am a second year student at Kritiania University in Bergen. This is my github where I publish both personal projects and school projects that I have completed during my education. 
+I am a second year student at Kritiania University in Bergen. This is my github where I publish projects that I have completed during my education. 
 
-I study Frontend and mobile development. We learn both frontend and backend during our bachelor degree as well as app development. 
+I study Frontend and mobile development. 
 I started my education in 2024 and I am finished in 2027. 
 
 ## How to reach me: 
