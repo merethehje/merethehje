@@ -6,15 +6,14 @@ I started my education in 2024 and I am finished in 2027.
 
 ## How to reach me: 
 
+E-mail: merethehjertenes@icloud.com
+
 <a href = https://www.linkedin.com/in/merethe-hjertenes-a53895146/>
 <button>
 Linkedin</button>
 </a>
 
-<a href = "merethehjertenes@icloud.com"/>
-<button>
-E-mail 📫 </button>
-</a>
+
 
 <!--
 **merethehje/merethehje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
