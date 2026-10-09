@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a second year student at Kritiania University in Bergen. This is my github where I publish projects that I have completed during my education. 
+I am a third year student at Kritiania University in Bergen. This is my github where I publish projects that I have completed during my education. 
 
 I study Frontend and mobile development. 
 I started my education in 2024 and I am finished in 2027. 
@@ -9,6 +9,11 @@ I started my education in 2024 and I am finished in 2027.
 <a href = https://www.linkedin.com/in/merethe-hjertenes-a53895146/>
 <button>
 Linkedin</button>
+</a>
+
+<a href = "merethehjertenes@icloud.com"/>
+<button>
+E-mail 📫 </button>
 </a>
 
 <!--
