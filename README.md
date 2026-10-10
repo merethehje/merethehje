@@ -4,7 +4,7 @@ I am a third year student at Kritiania University in Bergen. This is my github w
 I study Frontend and mobile development. 
 I started my education in 2024 and I am finished in 2027. 
 
-## How to reach me: 
+## Contact me!   
 
 E-mail: merethehjertenes@icloud.com
 
@@ -14,6 +14,11 @@ Linkedin</button>
 </a>
 
 
+## Noen av mine tidligere prosjekter og eksamener: 
+
+[🔗 IT og prosjektledelse eksamen vår 2026](https://github.com/merethehje/BU5300_IT_prosjektledelse)
+
+[🔗 Introduksjon til programmering eksamen høst 2024](https://github.com/merethehje/PGR102_introduksjon-til-programmering_h2024_eksamen)
 
 <!--
 **merethehje/merethehje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
